@@ -6,7 +6,7 @@ A collection of game patches for Picross NP series (SNES).
 
 ### Improved cursor
 
-This patch attempts to fix the slippery-feeling cursor, and increasing its speed when in turbo mode for faster navigation.
+This patch attempts to fix the slippery-feeling cursor. Its speed in turbo mode is also increased for faster and more responsive navigation.
 
 ### No time limit
 
