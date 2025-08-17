@@ -6,11 +6,11 @@ A collection of game patches for Picross NP series (SNES).
 
 ### Improved cursor
 
-This patch attempts to fix the slippery-feeling cursor. Its speed in turbo mode is also increased for faster and more responsive navigation.
+This patch attempts to fix the slippery-feeling cursor movement. The scrolling speed is also increased for a more responsive experience.
 
 ### No time limit
 
-This patch disables the in-game time limit and mistake penalties. Essentially, chapters 1-4 are modified to use the stopwatch mode from chapters 5/6, allowing all puzzles to be played in a style closer to modern Picross with no assists.
+This patch disables all time limits and mistake penalties. Essentially, chapters 1-4 are modified to use the stopwatch mode from chapters 5/6, allowing all puzzles to be played in a style closer to modern Picross with no assists.
 
 ## How to use
 
