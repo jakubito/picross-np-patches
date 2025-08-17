@@ -23,4 +23,4 @@ This patch removes the in-game time limit and mistake penalties. Essentially, ch
 | Name | CRC-32 | SHA-1 |
 | --- | --- | --- |
 | Picross NP Vol. 1 (Japan) (Rev 1) (NP) | `e6f29429` | `75b2b639e73775f1709059a8b1b63f61983de0e8` |
-
+| Picross NP Vol. 2 (Japan) (Rev 1) (NP) | `1df8a75c` | `dbad4ed4f1c4bb54bf44223833c056179c4cc4f2` |
