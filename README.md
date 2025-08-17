@@ -2,6 +2,8 @@
 
 A collection of game patches for Picross NP series (SNES).
 
+![title.jpg](https://raw.githubusercontent.com/jakubito/picross-np-patches/master/public/title.png)
+
 ## Overview
 
 ### Improved cursor
