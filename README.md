@@ -2,7 +2,7 @@
 
 A collection of game patches for Picross NP series (SNES).
 
-![title.jpg](https://raw.githubusercontent.com/jakubito/picross-np-patches/master/public/title.png)
+<img src="https://raw.githubusercontent.com/jakubito/picross-np-patches/main/title.png" width="400" />
 
 ## Overview
 
