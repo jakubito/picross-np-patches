@@ -1,6 +1,6 @@
 # Picross NP patches
 
-A collection of game patches for Picross NP series (SNES).
+A collection of patches for Picross NP game series (SNES).
 
 <img src="https://raw.githubusercontent.com/jakubito/picross-np-patches/main/title.png" width="400" />
 
@@ -16,7 +16,7 @@ This patch disables all time limits and mistake penalties. Essentially, chapters
 
 ## How to use
 
-- Use any rom patcher that accepts IPS format, for example [RomPatcher.js](https://www.marcrobledo.com/RomPatcher.js/)
+- Use any rom patcher that accepts IPS format, for example [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/)
 - Always confirm checksum of the source rom
 - Patches can be applied in any order
 
@@ -32,3 +32,7 @@ This patch disables all time limits and mistake penalties. Essentially, chapters
 | Picross NP Vol. 6 (Japan) (Rev 1) (NP) | `b1d6a070` | `a13cf604a0667541d7fbb8e139f808dfc83dbb07` |
 | Picross NP Vol. 7 (Japan) (Rev 1) (NP) | `2528d5a0` | `8870889c042b21d2a5a1fc2fed4dc8803d829b0b` |
 | Picross NP Vol. 8 (Japan) (Rev 1) (NP) | `2fbeea6e` | `b34537a0efdae9cf25eab0e3c4f4dd802a98a63b` |
+
+## Credits
+
+[Mesen](https://github.com/SourMesen/Mesen2/)
